@@ -21,5 +21,4 @@ yarn install
 
 yarn dist
 ```
-<br />
 After your done compiling your app should be in the source directory inside of the `/dist` folder.
