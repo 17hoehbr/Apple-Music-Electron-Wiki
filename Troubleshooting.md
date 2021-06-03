@@ -7,9 +7,9 @@ Troubleshooting can be done in a series of ways. Below is a list of the current 
 **Clean Installation**
 * A simple clean installation can be done by uninstalling the application (on Windows this can be done the System Setting) and clearing all application data:
 * After you have uninstalled the application, you can begin by deleting the following folders if they exist:
-* * `%APPDATA%\Apple Music`
-* * `%LOCALAPPDATA%\Programs\apple-music-electron`
-* * `%LOCALAPPDATA%\apple-music-electron-updater`
+* `%APPDATA%\Apple Music`
+* `%LOCALAPPDATA%\Programs\apple-music-electron`
+* `%LOCALAPPDATA%\apple-music-electron-updater`
 
 Then reinstall the application from [here](https://github.com/cryptofyre/Apple-Music-Electron/releases/latest).
 
