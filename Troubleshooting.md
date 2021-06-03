@@ -1,11 +1,11 @@
 ## Troubleshooting
 Troubleshooting can be done in a series of ways. Below is a list of the current methods you can troubleshoot issues with the application.
 
-* **Log File**
-The logging file can be found at `%APPDATA%\Apple Music\logs\main.log`. This file should contain all you need to see what is causing issues in the application. The log file will show you what active function is being run and when CSS/JS is loaded. It overrides the `console.log` function, so if you add them in your code, it will be logged to the file. 
+**Log File**
+* The logging file can be found at `%APPDATA%\Apple Music\logs\main.log`. This file should contain all you need to see what is causing issues in the application. The log file will show you what active function is being run and when CSS/JS is loaded. It overrides the `console.log` function, so if you add them in your code, it will be logged to the file. 
 
-* **Clean Installation**
-A simple clean installation can be done by uninstalling the application (on Windows this can be done the System Setting) and clearing all application data:
+**Clean Installation**
+* A simple clean installation can be done by uninstalling the application (on Windows this can be done the System Setting) and clearing all application data:
 After you have uninstalled the application, you can begin by deleting the following folders if they exist:
 `%APPDATA%\Apple Music`
 `%LOCALAPPDATA%\Programs\apple-music-electron`
