@@ -1,6 +1,8 @@
 ### Designing your own CSS theme is pretty advanced so if your unable to do it then don't do it.
 However, if you are indeed capable of making CSS themes you can use the template in the `assets/` in the source directory named `default_style.css`
 
+Once your done designing and making your theme make a PR to this [repository](https://github.com/cryptofyre/Apple-Music-Electron-Themes) in the `community-themes/` directory.
+
 ## Using your CSS or pre-existing CSS themes.
 Themes are capable of being chosen by either dropping your css file into the `assets/themes/` directory (if your making your own) or if your not you can just continue with the next step.
 
