@@ -10,8 +10,7 @@ Troubleshooting can be done in a series of ways. Below is a list of the current 
 * `%APPDATA%\Apple Music`
 * `%LOCALAPPDATA%\Programs\apple-music-electron`
 * `%LOCALAPPDATA%\apple-music-electron-updater`
-
-Then reinstall the application from [here](https://github.com/cryptofyre/Apple-Music-Electron/releases/latest).
+* Then reinstall the application from [here](https://github.com/cryptofyre/Apple-Music-Electron/releases/latest).
 
 ## Troubleshooting Advanced
 
