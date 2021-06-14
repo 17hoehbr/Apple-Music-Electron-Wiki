@@ -33,7 +33,7 @@ This wiki will contain all the knowledge and instructions to compiling Apple Mus
 ## App Credits and Disclaimers
 
 ### Credits
-cryptofyre, CoreDev-UK, devilAPI, Apple, castlabs (for electron), and more!
+[cryptofyre](https://github.com/cryptofyre), [Core](https://github.com/coredev-uk), [devilAPI](https://github.com/devilAPI), [Apple](https://apple.com), [castlabs](https://github.com/castlabs) (for electron), and more!
 
 ### Disclaimer
 I do not intend to compete in any way to Apple. Apple owns the right to the Apple logo, Apple Music, Apple Music Logo, and MusicKit. If anyone has any issues with the legal reasoning behind this application you can contact me at <a href="mailto:cryptofyre@protonmail.com">cryptofyre@protonmail.com</a>
