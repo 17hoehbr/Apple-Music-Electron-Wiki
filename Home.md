@@ -4,19 +4,20 @@
     <br />
     <br />
   </a>
-  <p align="center"> 
+<p align="center"> 
   <img src="https://img.shields.io/github/stars/cryptofyre/Apple-Music-Electron" alt="Stars">
   <img src="https://img.shields.io/github/forks/cryptofyre/Apple-Music-Electron" alt="Forks">
   <img src="https://img.shields.io/github/license/cryptofyre/Apple-Music-Electron" alt="MIT">
   <img src="https://img.shields.io/github/downloads/cryptofyre/Apple-Music-Electron/total.svg?style=flat" alt="Downloads">
   <img src="https://img.shields.io/github/release/cryptofyre/Apple-Music-Electron.svg?style=flat" alt="Release">
-  <img src="https://github.com/cryptofyre/Apple-Music-Electron/actions/workflows/build-analyze.yml/badge.svg" alt="Build">
   <span class="badge-buymeacoffee">
-<a href="https://ko-fi.com/cryptofyre" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
-</span>
-  
-  
-  </p>
+    <a href="https://ko-fi.com/cryptofyre" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
+  </span>
+  <br>
+  <img src="https://github.com/cryptofyre/Apple-Music-Electron/actions/workflows/build-analyze-win.yml/badge.svg" alt="Build Analysis - Windows">
+  <img src="https://github.com/cryptofyre/Apple-Music-Electron/actions/workflows/build-analyze-linux.yml/badge.svg" alt="Build Analysis - Linux">
+  <img src="https://github.com/cryptofyre/Apple-Music-Electron/actions/workflows/build-analyze-macos.yml/badge.svg" alt="Build Analysis - macOS">
+</p>
 
 # Home
 This wiki will contain all the knowledge and instructions to compiling Apple Music Electron and or debugging to submit a issue report so that I can fix it or another contributor can fix it.
