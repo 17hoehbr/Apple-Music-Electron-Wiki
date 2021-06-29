@@ -15,3 +15,6 @@ Streamers can easily integrate Apple Music into their OBS stream with the follow
 
 ## Result:
 ![result](https://i.imgur.com/Svvt3Pm.png)
+
+***
+Please only use this for music you have the legal rights to stream. We are not responsible for any bans or DMCA requests as a result of streaming copyrighted music.
